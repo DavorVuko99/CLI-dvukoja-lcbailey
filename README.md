@@ -13,4 +13,4 @@ The program will read in the arguments and then print information:
 ![alttext](img.png)
 
 This is a picture of our code that makes the whole program work
-![alttext](Code.png)
+![alttext](Code.jpeg)
