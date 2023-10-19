@@ -4,7 +4,7 @@ We are running this program on MacOS.
 
 # Running the Program
 To run the program, pass it two names in command line arguments. This is what we use in command line to call the code the .m file and pass in our arguments:
-- /Applications/MATLAB_R2023b.app/bin/matlab -batch "CLI('Davor', 'Lucas')"
+- /Applications/MATLAB_R2023b.app/bin/matlab -batch "CLI('Davor', 'Vukoja')"
 
 To print the output to the console:
 - disp(l['Second argument: ', arg1]);
