@@ -1,0 +1,9 @@
+% Run the "ls" command (list files) on macOS
+command = 'ls';
+status = system(command);
+
+if status == 0
+    disp('Command executed successfully.');
+else
+    disp('Command failed to execute.');
+end
